@@ -1,6 +1,7 @@
 
 # Animeverse Chronicles
-
+## Demo:
+![Demo Gif](AnimeverseChronicles-MultiverseWar/demo/demo.gif)
 ## Cách tải Game:
 
 + 	Tải file AnimeverseChronicles.rar trong bản release mới nhất về máy. Giải nén rồi chạy file main.exe để bắt đầu game.
